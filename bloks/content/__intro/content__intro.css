@@ -1,0 +1,22 @@
+.content__intro {
+  margin: 0 16px 64px;
+}
+
+@media all and (min-width: 768px) {
+  .content__intro {
+    margin: 0 24px 88px;
+  }
+}
+
+@media all and (min-width: 1024px) {
+  .content__intro {
+    margin: 0 48px 92px;
+    width: 690px;
+  }
+}
+
+@media all and (min-width: 1280px) {
+  .content__intro {
+    margin: 0 148px 92px;
+  }
+}

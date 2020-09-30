@@ -1,0 +1,10 @@
+.place__url {
+  align-self: flex-end;
+  display: none;
+}
+
+@media all and (min-width: 768px) {
+  .place__url {
+    display: inherit;
+  }
+}

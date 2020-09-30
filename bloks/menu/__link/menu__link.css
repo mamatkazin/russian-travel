@@ -1,0 +1,14 @@
+.menu__link {
+  text-decoration: none;
+  color: white;
+  transition: opacity 0.5s linear;
+}
+
+.menu__link:hover {
+  opacity: 0.8;
+}
+
+.menu__link-link:link {
+  color: white;
+  text-decoration: none;
+}

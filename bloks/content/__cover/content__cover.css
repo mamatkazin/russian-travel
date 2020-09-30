@@ -1,0 +1,21 @@
+.content__cover {
+  margin: 0 0 64px;
+}
+
+@media all and (min-width: 768px) {
+  .content__cover {
+    margin: 0 0 88px;
+  }
+}
+
+@media all and (min-width: 1024px) {
+  .content__cover {
+    margin: 0 0 92px;
+  }
+}
+
+@media all and (min-width: 1280px) {
+  .content__cover {
+    margin: 0 48px 92px;
+  }
+}

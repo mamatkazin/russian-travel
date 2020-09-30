@@ -1,0 +1,37 @@
+.content__place {
+  margin: 0 0 48px;
+}
+
+.content__place:last-child {
+  margin: 0 0 64px;
+}
+
+@media all and (min-width: 768px) {
+  .content__place {
+    margin: 0 24px 72px;
+  }
+
+  .content__place:last-child {
+    margin: 0 24px 88px;
+  }
+}
+
+@media all and (min-width: 1024px) {
+  .content__place {
+    margin: 0 48px 80px;
+  }
+
+  .content__place:last-child {
+    margin: 0 48px 92px;
+  }
+}
+
+@media all and (min-width: 1280px) {
+  .content__place {
+    margin: 0 148px 80px;
+  }
+
+  .content__place:last-child {
+    margin: 0 148px 92px;
+  }
+}
