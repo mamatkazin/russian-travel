@@ -1,9 +1,0 @@
-.cover__background {
-  background-image: url(../../../images/cover-trains.jpg);
-  background-size: cover;
-  position: relative;
-  padding-top: 62%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}

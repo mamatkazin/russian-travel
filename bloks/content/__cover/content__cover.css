@@ -16,6 +16,6 @@
 
 @media all and (min-width: 1280px) {
   .content__cover {
-    margin: 0 48px 92px;
+    margin: 0 var(--marginLarge) 92px;
   }
 }
