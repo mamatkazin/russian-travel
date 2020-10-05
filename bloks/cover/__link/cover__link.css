@@ -28,6 +28,6 @@
 
 @media all and (min-width: 1280px) {
   .cover__link {
-    height: calc((100vw - var(--marginLarge)) / 1.6);
+    height: calc((100vw - var(--marginLarge) * 2) / 1.6);
   }
 }
